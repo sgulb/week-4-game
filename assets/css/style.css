@@ -54,6 +54,7 @@ body {
 #playerScore {
     background-color: #bf80ff;
     color: white;
+    margin-bottom: 10px;
 }
 
 #playerScore p {
